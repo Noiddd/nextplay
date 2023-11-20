@@ -34,6 +34,7 @@ const Nav = () => {
           <li className="flex gap-5">
             <Button onClick={test}>Learn More</Button>
             <ModeToggle />
+            <
           </li>
         </ul>
       </nav>
